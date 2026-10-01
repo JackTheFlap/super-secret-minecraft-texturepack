@@ -1,0 +1,349 @@
+{
+  "tool": "mctools-paintings",
+  "toolVersion": 1,
+  "items": [
+    {
+      "name": "village 3",
+      "sizeW": 16,
+      "sizeH": 32,
+      "sizeLabel": "1×2",
+      "slotName": "wanderer",
+      "panX": 0.5,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "clocktower",
+      "sizeW": 16,
+      "sizeH": 32,
+      "sizeLabel": "1×2",
+      "slotName": "graham",
+      "panX": 0.5,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "creeper farm v ",
+      "sizeW": 16,
+      "sizeH": 32,
+      "sizeLabel": "1×2",
+      "slotName": "prairie_ride",
+      "panX": 0.5,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "vertical 3",
+      "sizeW": 16,
+      "sizeH": 16,
+      "sizeLabel": "1×1",
+      "slotName": "kebab",
+      "panX": 0.5,
+      "panY": 0.48,
+      "scale": 8
+    },
+    {
+      "name": "me n snake",
+      "sizeW": 16,
+      "sizeH": 16,
+      "sizeLabel": "1×1",
+      "slotName": "aztec",
+      "panX": 0.56,
+      "panY": 0.5,
+      "scale": 16
+    },
+    {
+      "name": "vertical 4",
+      "sizeW": 16,
+      "sizeH": 16,
+      "sizeLabel": "1×1",
+      "slotName": "alban",
+      "panX": 0.5,
+      "panY": 0.37,
+      "scale": 8
+    },
+    {
+      "name": "storage 1",
+      "sizeW": 16,
+      "sizeH": 16,
+      "sizeLabel": "1×1",
+      "slotName": "aztec2",
+      "panX": 0.5,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "flower shop 1",
+      "sizeW": 16,
+      "sizeH": 16,
+      "sizeLabel": "1×1",
+      "slotName": "bomb",
+      "panX": 0.5,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "bench2",
+      "sizeW": 16,
+      "sizeH": 16,
+      "sizeLabel": "1×1",
+      "slotName": "plant",
+      "panX": 0.5,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "melon marv",
+      "sizeW": 16,
+      "sizeH": 16,
+      "sizeLabel": "1×1",
+      "slotName": "wasteland",
+      "panX": 0.53,
+      "panY": 0.5,
+      "scale": 16
+    },
+    {
+      "name": "horses",
+      "sizeW": 16,
+      "sizeH": 16,
+      "sizeLabel": "1×1",
+      "slotName": "meditative",
+      "panX": 0.43,
+      "panY": 0.5,
+      "scale": 16
+    },
+    {
+      "name": "pumpkin pete",
+      "sizeW": 32,
+      "sizeH": 16,
+      "sizeLabel": "2×1",
+      "slotName": "pool",
+      "panX": 0.5,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "pig farm 1",
+      "sizeW": 32,
+      "sizeH": 16,
+      "sizeLabel": "2×1",
+      "slotName": "courbet",
+      "panX": 0.5,
+      "panY": 0,
+      "scale": 8
+    },
+    {
+      "name": "xp farm 1",
+      "sizeW": 32,
+      "sizeH": 16,
+      "sizeLabel": "2×1",
+      "slotName": "sea",
+      "panX": 0.5,
+      "panY": 0.19,
+      "scale": 8
+    },
+    {
+      "name": "sniffers 1",
+      "sizeW": 32,
+      "sizeH": 16,
+      "sizeLabel": "2×1",
+      "slotName": "sunset",
+      "panX": 0.5,
+      "panY": 0.77,
+      "scale": 8
+    },
+    {
+      "name": "bridge 2",
+      "sizeW": 32,
+      "sizeH": 16,
+      "sizeLabel": "2×1",
+      "slotName": "creebet",
+      "panX": 0.5,
+      "panY": 0.05,
+      "scale": 8
+    },
+    {
+      "name": "flower farm",
+      "sizeW": 32,
+      "sizeH": 32,
+      "sizeLabel": "2×2",
+      "slotName": "match",
+      "panX": 0.15,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "pig farm 2",
+      "sizeW": 32,
+      "sizeH": 32,
+      "sizeLabel": "2×2",
+      "slotName": "bust_painting",
+      "panX": 0.5,
+      "panY": 0.55,
+      "scale": 8
+    },
+    {
+      "name": "mineshaft final",
+      "sizeW": 32,
+      "sizeH": 32,
+      "sizeLabel": "2×2",
+      "slotName": "stage",
+      "panX": 0.74,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "netherportal 1",
+      "sizeW": 32,
+      "sizeH": 32,
+      "sizeLabel": "2×2",
+      "slotName": "void",
+      "panX": 0.45,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "brigde night 1",
+      "sizeW": 32,
+      "sizeH": 32,
+      "sizeLabel": "2×2",
+      "slotName": "skull_and_roses",
+      "panX": 0.47,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "village 1",
+      "sizeW": 32,
+      "sizeH": 32,
+      "sizeLabel": "2×2",
+      "slotName": "wither",
+      "panX": 0.54,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "iron farm 1",
+      "sizeW": 32,
+      "sizeH": 32,
+      "sizeLabel": "2×2",
+      "slotName": "earth",
+      "panX": 0.42,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "xp farm 2",
+      "sizeW": 32,
+      "sizeH": 32,
+      "sizeLabel": "2×2",
+      "slotName": "wind",
+      "panX": 0.6,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "vertical 6",
+      "sizeW": 48,
+      "sizeH": 64,
+      "sizeLabel": "3×4",
+      "slotName": "backyard",
+      "panX": 0.5,
+      "panY": 0.48,
+      "scale": 4
+    },
+    {
+      "name": "bridge night 2",
+      "sizeW": 48,
+      "sizeH": 48,
+      "sizeLabel": "3×3",
+      "slotName": "bouquet",
+      "panX": 0.5,
+      "panY": 0.52,
+      "scale": 8
+    },
+    {
+      "name": "vertical 1",
+      "sizeW": 48,
+      "sizeH": 48,
+      "sizeLabel": "3×3",
+      "slotName": "cavebird",
+      "panX": 0.5,
+      "panY": 0.46,
+      "scale": 8
+    },
+    {
+      "name": "vertical 2",
+      "sizeW": 32,
+      "sizeH": 32,
+      "sizeLabel": "2×2",
+      "slotName": "fire",
+      "panX": 0.5,
+      "panY": 0.63,
+      "scale": 8
+    },
+    {
+      "name": "bridge 1",
+      "sizeW": 64,
+      "sizeH": 32,
+      "sizeLabel": "4×2",
+      "slotName": "fighters",
+      "panX": 0.5,
+      "panY": 0.26,
+      "scale": 8
+    },
+    {
+      "name": "storage 2",
+      "sizeW": 48,
+      "sizeH": 48,
+      "sizeLabel": "3×3",
+      "slotName": "cotan",
+      "panX": 0.51,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "vertical 5",
+      "sizeW": 48,
+      "sizeH": 48,
+      "sizeLabel": "3×3",
+      "slotName": "endboss",
+      "panX": 0.58,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "storage 3",
+      "sizeW": 48,
+      "sizeH": 64,
+      "sizeLabel": "3×4",
+      "slotName": "pond",
+      "panX": 0.5,
+      "panY": 0.59,
+      "scale": 8
+    },
+    {
+      "name": "wool farm 1",
+      "sizeW": 48,
+      "sizeH": 48,
+      "sizeLabel": "3×3",
+      "slotName": "fern",
+      "panX": 0.47,
+      "panY": 0.5,
+      "scale": 8
+    },
+    {
+      "name": "creeper farm",
+      "sizeW": 48,
+      "sizeH": 48,
+      "sizeLabel": "3×3",
+      "slotName": "owlemons",
+      "panX": 0.55,
+      "panY": 0.5,
+      "scale": 8
+    }
+  ],
+  "format": "java",
+  "pack_name": "snakenraeworld",
+  "pack_desc": "34 custom paintings"
+}
